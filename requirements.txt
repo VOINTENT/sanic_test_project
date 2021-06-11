@@ -16,5 +16,5 @@ multidict==4.7.5
 rfc3986==1.4.0
 sanic==19.12.2
 sniffio==1.1.0
-websockets==8.1
+websockets==9.1
 yarl==1.4.2
